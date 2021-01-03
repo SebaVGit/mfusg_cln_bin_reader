@@ -50,7 +50,11 @@ while True:
         break
     except ValueError:
         print('Oops! Must be a number between 1 to 4. Try it again...')
-#----------------Condición del tipo de archivo----------------------------
+#----------------Type of header that is used in cell by cell------------
+if tipo==3:
+    header=input('What header you would like to use? (example WELLS): ')
+
+#----------------type of file to read----------------------------
 if tipo==1:
     conobj = bf.HeadFile(Ruta+'\\'+archivo, text='CONC')
     con=conobj.get_alldata()
