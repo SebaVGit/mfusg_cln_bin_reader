@@ -7,7 +7,7 @@ You can search more information in: [flopy](https://flopy.readthedocs.io/en/3.3.
 I used MODFLOW-USG packages created with Groundwater Vistas 7.\
 Here you can download a student version of the software: [GWV](http://www.groundwatermodels.com/)\
 Also you have the entire project of GWV in the `MODFLOW_Files`. It is a simple model that runs flow and transport in order to create 3 binary files.\
-You can find the MODLOFW-USG with Transport executable [here] (https://www.gsi-net.com/en/software/free-software/modflow-usg.html)
+You can find the MODLOFW-USG with Transport executable [here](https://www.gsi-net.com/en/software/free-software/modflow-usg.html)
 
 ## Capabilities
 You can read head, cell by cell and concentration files of the CLN.\
