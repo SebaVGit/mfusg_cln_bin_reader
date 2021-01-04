@@ -26,5 +26,6 @@ Finally you can run the script with your favorite text editor (like VSCode) or S
 
 ## Contact
 
-Please if you want to improve the code feel free to contact me.\
+Please if you want to improve the code feel free to contact me or make a PR.\
 email: `sebastian.vazquez@ug.uchile.cl`
+[Linkedin](https://www.linkedin.com/in/sebasti%C3%A1n-v%C3%A1zquez-gasty-952121181/)
