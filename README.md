@@ -2,7 +2,9 @@
 This is a python script to read CLN binary files, that uses Flopy and Pandas.
 ## Required packages
 **flopy version:** `3.2 or later`\
-You can search more information in: [flopy](https://flopy.readthedocs.io/en/3.3.2/)
+You can search more information in: [flopy](https://flopy.readthedocs.io/en/3.3.2/)\
+You can install it by use it **Conda**: `conda install -c conda-forge flopy`\
+or by using **pip**: `pip install flopy`.
 ## Example
 I used MODFLOW-USG packages created with Groundwater Vistas 7.\
 Here you can download a student version of the software: [GWV](http://www.groundwatermodels.com/)\
