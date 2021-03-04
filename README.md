@@ -24,7 +24,7 @@ python ..\Read_Binary_CLN_v1_git.py
 pause
 ```
 I use `call activate base` in order to activate the conda environment where I have installed flopy.\
-Finally you can run the script with your favorite text editor (like VSCode) or Spyder if you like.
+Finally you can run the script with your favorite text editor like VSCode or Spyder if you like.
 
 ## Contact
 
