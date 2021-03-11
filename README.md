@@ -28,6 +28,6 @@ Finally you can run the script with your favorite text editor like VSCode or Spy
 
 ## Contact
 
-Please if you want to improve the code feel free to contact me or make a pull request.\
+Please if you want to improve the code feel free to contact me or just make a pull request.\
 email: `sebastian.vazquez@ug.uchile.cl`\
 [Linkedin](https://www.linkedin.com/in/sebasti%C3%A1n-v%C3%A1zquez-gasty-952121181/)
