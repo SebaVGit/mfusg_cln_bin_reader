@@ -1,5 +1,5 @@
 # MODFLOW-USG CLN Binary Reader
-This is a python script to read CLN binary files, that uses Flopy and Pandas.
+This is a python script for read CLN´s binary files, It uses Flopy and Pandas.
 ## Required packages
 **flopy version:** `3.2 or later`\
 You can search more information about it [here](https://flopy.readthedocs.io/en/3.3.2/)\
